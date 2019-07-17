@@ -1,0 +1,7 @@
+name: All-New Fire 7 Kids Edition Tablet, 7" Display, 16 GB, Blue Kid-Proof Case
+
+details: Save up to $89 on a full-featured Fire 7 Tablet, 1 year of Amazon FreeTime Unlimited, a Kid-Proof Case with built-in stand, and 2-year worry-free guarantee ─ versus items purchased separately.
+
+price: 59.99
+
+image: https://images-na.ssl-images-amazon.com/images/I/61ZGVR6i2IL._SX522_.jpg
